@@ -11,6 +11,11 @@
 <body>
 <embed src="coca-cola-life-2.svg" type="image/svg+xml" width="400" height="400">
 <embed src="coca-cola-4.svg" type="image/svg+xml" width="300" height="300">
+<p> Display a temperatura: </p>
+<meter value="4" min="0" max="20">2 out of 10</meter><br>
+<meter value="0.6">60%</meter><br>
+<meter low="69" min="0" max="100" value="70"></meter><br>
+<meter low="68" higt="80" min="0" max="200" value="82"></meter>
 </body>
 
 
