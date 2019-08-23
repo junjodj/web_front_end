@@ -1,0 +1,19 @@
+<Html>
+<body>
+<h2>HTML FORMS</H2>
+<form action="/action_page.php">
+First name:<br>
+<input type="text" name="firstname">
+<br>
+Last Name:<br>
+<input type="text" name="lastname" >
+<br><br>
+<input type="submit" value="submit">
+
+
+
+</form>
+
+
+
+</html>
