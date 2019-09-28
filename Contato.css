@@ -1,0 +1,28 @@
+T {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+h2 {
+	text-align:center;
+	font-size: 65px;
+	color: blue ;
+}
+body  {
+	background-image: url(Contacto1.jpg);
+	font-size: 15px;
+	background-size: cover;
+}
+
+h4 {
+	text-align:center;
+    font-size: 35px;
+	color: #29118C ;
+}
+iframe {
+	width:383px;
+	position: absolute;
+	left:850px;
+	border:none;
+	top: 400px;
+}

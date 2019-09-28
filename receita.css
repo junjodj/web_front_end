@@ -1,0 +1,28 @@
+r{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+h2 {
+	text-align:center;
+	font-size: 100px;
+}
+body  {
+	background-image: url(pintado1.jpg);
+	font-size: 15px;
+	background-size: cover;
+}
+.receita1 {
+    width: 500px;
+    height: 200px;
+    position: relative;
+	left: 150px;
+	top: 75px;
+}
+.preparaçao{
+    width: 500px;
+    height: 200px;
+    position: relative;
+	left: 650px;
+	top: -100px;
+}
